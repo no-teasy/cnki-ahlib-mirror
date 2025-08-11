@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         知网安徽图书馆镜像
-// @namespace    http://github.com/no-teasy
+// @namespace    http://github.com/no-teasy/cnki-ahlib-mirror
 // @version      1.4
 // @description  将所有跳转到cnki.net的链接重定向到AH图书馆镜像站
 // @author       no-teasy 3992412947@qq.com
 // @match        *://*.ahlib.com/*
+// @license      MIT
 // @match        *://*.cnki.net/*
 // @grant        none
 // @run-at       document-start
